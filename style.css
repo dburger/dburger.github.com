@@ -1,6 +1,7 @@
 body {
   width: 960px;
   margin: 15px auto;
+  font-family: Verdana;
 }
 
 header > img {
